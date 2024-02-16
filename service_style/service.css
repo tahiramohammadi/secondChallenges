@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Trirong", serif;
+}
+
+.service-section{
+    margin-left:200px;
+    margin-right:200px;
+    height: 700px;
+}
+.service-design img{
+    width: 100px;
+    height: 100px;
+}
+.service-design{
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    line-height: 20px;
+}
+
+.service-design strong{
+    padding:  3px 20px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.service-two-design{
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+.service-two-design img{
+    width: 100px;
+    height: 100px;
+}
+.service-two-design strong{
+    padding:  3px 20px;
+    font-weight: bold;
+    font-size: 20px;
+}

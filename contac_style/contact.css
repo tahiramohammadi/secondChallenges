@@ -1,0 +1,98 @@
+body{
+    font-family: "Trirong", serif;
+    margin:0;
+    padding: 0;
+}
+.contact-section{
+    height: 1200px;
+    background: #fffbf8;
+ 
+  
+}
+.contact-passages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-right:auto;
+    width: 100%;
+    margin-left:auto;
+    text-align: center;
+    padding-top: 150px;
+
+}
+.contact-passages h1{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 0%;
+}
+.contact-passages p{
+    font-size: 20px;
+    color: #2f3640;
+}
+.black-contact{
+    width: 400px;
+    height: 550px;
+    float: left;
+    padding: 30px 0px 30px 30px;
+    background: #2f3640;
+    margin:50px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.black-contact h3, p, h5{
+    color: white;
+ 
+}
+.black-contact span{
+    padding: 20px;
+    color: rgb(247, 240, 240);
+ 
+}
+.black-contact i{
+    padding: 10px 5px;
+    font-size: 20px;
+    color: rgb(190, 184, 184);
+}
+.icon-black i {
+   color:white;
+    font-size:20px;
+    padding:   50px 15px;
+}
+.icon-black i:hover{
+    color:#ec7a49;
+}
+.white-contact{
+    background-color: #f3f4f6;
+    width: 600px;
+    height: 550px;
+    padding: 30px 30px 30px 0px;
+    margin:50px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    float: right;
+}
+.white-contact input, textarea{
+    padding: 20px 10px;
+    border-radius: 5px;
+    margin:15px;
+    border:none;
+ 
+}
+.white-contact input, textarea:hover{
+    border:solid 1px #ec7a49;
+}
+.white-contact textarea{
+    height: 150px;
+}
+.white-contact button{
+    padding: 20px 10px;
+    border-radius: 5px;
+    background: #ec7a49;
+    border:none;
+    width: 200px;
+    margin-left:380px;
+    cursor: pointer;
+}
