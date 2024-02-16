@@ -1,0 +1,31 @@
+body {
+    font-family: "Trirong", serif;
+    margin:0;
+    padding: 0;
+}
+.rapid-section{
+    background: #fffbf8;
+    height: 900px;
+    width: 100%;
+ 
+
+}
+.com-section-one{
+ width: 600px;
+float: left;
+padding-top:200px;
+padding-left: 30px;
+display: flex;
+flex-direction: column;
+   
+}
+.com-section-one h2{
+    font-size: 45px;
+    font-weight: bold;
+}
+.com-img-one{
+float: right;
+padding-top:300px;
+padding-right: 30px;
+}
+
