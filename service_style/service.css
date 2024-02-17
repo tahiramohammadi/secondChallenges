@@ -44,3 +44,49 @@ body{
     font-weight: bold;
     font-size: 20px;
 }
+.service-three-section{
+    background:#fffbf8;
+    height: 400px;
+}
+.section-four-img{
+    background:#fffbf8;
+    height: 400px;
+    display: flex;
+}
+.service-three-passage{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-right:auto;
+    margin-left:auto;
+
+}
+.service-three-passage h1{
+    font-weight: bold;
+    padding-top: 100px;
+    font-size: 30px;
+    line-height: 0%;
+}
+.service-three-img{
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0px 100px;
+ 
+}
+.service-only-image{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+}
+.service-only-image img{
+    margin:auto;
+ 
+
+}
+.service-five-section{
+    background:white;
+    height: 400px;
+}
