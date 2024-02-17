@@ -340,3 +340,19 @@ z-index: 1;
     font-size:20px;
     padding-left:10px;
 }
+.chatbox-bg{
+    background: #ec7a49;
+    height: 50px;
+    width:50px;
+    border-radius: 50%;
+    box-shadow: 1px 1px 5px #999;
+    display: flex;
+    position: fixed;
+    bottom: 6px;
+    right: 6px;
+}
+.chatbox-bg img{
+    width:50%;
+    margin:auto;
+ cursor: pointer;
+}
